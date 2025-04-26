@@ -60,5 +60,5 @@ Python: pandas, matplotlib, seaborn, scikit-learn
 
 SQL: Data extraction and aggregation queries
 
-Jupyter Notebook: Analysis and visualization
+Tableau: Analysis and visualization
 
